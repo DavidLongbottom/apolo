@@ -8,7 +8,7 @@ ctp , quant, trade <br>
 跑通了ctp， 使用zmq的ipc pub/sub实现了水平拓展<br>
 
 # 依赖
-boost, zmq, talib
+c++11以上，boost, zmq, talib， 仅在centos 上测试过
 
 # 说明
 此项目将不在维护和更新， 我以后有时间会重启一个项目，完全设计架构以及完全重写代码。<br>
